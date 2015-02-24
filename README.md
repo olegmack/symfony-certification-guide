@@ -295,24 +295,20 @@ http://symfony.com/doc/2.3/cookbook/debugging.html
 http://symfony.com/doc/2.3/book/index.html
 * The Symfony Cookbook  
 http://symfony.com/doc/2.3/cookbook/index.html
-* The Symfony Book Spanish  
-http://librosweb.es/symfony_2_3/  
 The Symfony Glossary  
 http://symfony.com/doc/2.3/glossary.html
 
 ---
+#### **Presentations**
+* Symfony Tips and Tricks
+http://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks
 
+---
 #### **Books**
-* Desarrollo web ágil con Symfony2 Spanish  
-http://symfony.es/libro/  
 * A year with Symfony  
 https://leanpub.com/a-year-with-symfony  
-* Un año con Symfony Spanish  
-https://leanpub.com/un-ano-con-symfony  
 * Extending Symfony2 Web Application Framework  
 http://www.packtpub.com/extending-symfony-2-web-application-framework/book  
-* Testing para Aplicaciones Symfony2 Spanish  
-https://leanpub.com/testingsymfony2  
 * Symfony Enterprise Applications
 https://leanpub.com/symfony-enterprise-applications
 * Extending Symfony2 Web Application Framework
